@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Web Developer
 --------------------
 
-Computer Science Undergraduate who prefers "Self-Taught programming".\ <--My Journey--> \I've been learning to code for 2 years. I started learning programming concepts with Python in my first year at university and learned Java with object-oriented concepts in my second year at university. After years of confusion, about what path I should choose as a programmer I decided to learn web development to progress through my coding journey. I'm currently doing an internship as a junior web developer. Huge thanks to my mentors...
+Computer Science Undergraduate who prefers "Self-Taught programming". <--My Journey-->  I've been learning to code for 2 years. I started learning programming concepts with Python in my first year at university and learned Java with object-oriented concepts in my second year at university. After years of confusion, about what path I should choose as a programmer I decided to learn web development to progress through my coding journey. I'm currently doing an internship as a junior web developer. Huge thanks to my mentors...
 
 * 🌍  I'm based in Sri Lanka
 * ✉️  You can contact me at [dev.sameera.cs@gmail.com](mailto:dev.sameera.cs@gmail.com)
