@@ -25,4 +25,8 @@ Computer Science Undergraduate <--My Journey--> I've been learning to code for 2
 
 ### Badges
 
-<a href="https://github.com/Sameera-Madusanka" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameera-Madusanka&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Sameera-Madusanka"><img src="https://github-readme-stats.vercel.app/api?username=Sameera-Madusanka&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=facc15&icon_color=ffffff&bg_color=181824&hide_border=true&show_icons=true" alt="Sameera-Madusanka's GitHub stats" /></a>
+
+<a href="http://www.github.com/Sameera-Madusanka"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameera-Madusanka&stroke=facc15&background=181824&ring=ffffff&fire=ffffff&currStreakNum=facc15&currStreakLabel=ffffff&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
